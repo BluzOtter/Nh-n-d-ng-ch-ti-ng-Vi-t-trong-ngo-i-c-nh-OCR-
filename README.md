@@ -1,2 +1,2 @@
-# Nh-n-d-ng-ch-ti-ng-Vi-t-trong-ngo-i-c-nh-OCR-
+# Scene Text Recognition
 Đồ án môn học IE221.M21.CNCL
