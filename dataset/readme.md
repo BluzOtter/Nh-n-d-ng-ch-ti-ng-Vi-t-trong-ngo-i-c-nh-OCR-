@@ -29,6 +29,7 @@ The data consists of 3 sets:
 
 ### README
 Dữ liệu `public_train` được chia nhỏ để thuận tiện trong quá trình tải dữ liệu. Sau khi tải toàn bộ 5 file liên quan: 
+link drive: https://drive.google.com/drive/folders/1-4J6VfocLhg7J9IbCtkMROE2vYGYCmOq?usp=sharing
 
 ```
 public_train_s.z01
@@ -49,4 +50,7 @@ Lưu ý:
 
 - Các file được lưu trong cùng 1 thư mục.
 - Phiên bản ZIP từ 3.0 trở lên.
+
+# Dataset AI Challenge 2021
+https://drive.google.com/file/d/1h0k_wWq1N8AU0PgjkC2uJ7CjxeO6S2ee/view?usp=sharing
 
