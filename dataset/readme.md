@@ -28,7 +28,7 @@ The data consists of 3 sets:
 - The test data for the Private Test phase includes 1,600 pill images and 184 prescription images
 
 ### README
-Dữ liệu `public_train` được chia nhỏ để thuận tiện trong quá trình tải dữ liệu. Sau khi tải toàn bộ 5 file liên quan: 
+Dữ liệu `public_train` được chia nhỏ để thuận tiện trong quá trình tải dữ liệu. Sau khi tải toàn bộ 5 file liên quan: \\
 link drive: https://drive.google.com/drive/folders/1-4J6VfocLhg7J9IbCtkMROE2vYGYCmOq?usp=sharing
 
 ```
