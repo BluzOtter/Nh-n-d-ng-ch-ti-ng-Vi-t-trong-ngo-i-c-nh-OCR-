@@ -26,3 +26,27 @@ The data consists of 3 sets:
 - The training data consists of 9,500 images of pills and 1,171 images of prescriptions
 - The test data for the Public Test phase includes 1,500 pill images and 172 prescription images
 - The test data for the Private Test phase includes 1,600 pill images and 184 prescription images
+
+### README
+Dữ liệu `public_train` được chia nhỏ để thuận tiện trong quá trình tải dữ liệu. Sau khi tải toàn bộ 5 file liên quan: 
+
+```
+public_train_s.z01
+public_train_s.z02
+public_train_s.z03
+public_train_s.z04
+public_train_s.zip
+```
+
+Các bạn sử dụng lệnh sau để gộp thành 1 file và giải nén. 
+
+```
+zip -s- public_train_s.zip -O public_train.zip
+unzip public_train.zip
+```
+
+Lưu ý:
+
+- Các file được lưu trong cùng 1 thư mục.
+- Phiên bản ZIP từ 3.0 trở lên.
+
